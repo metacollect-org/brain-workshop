@@ -15,8 +15,14 @@ For complete details please refer to the [license](LICENSE.md) included with thi
     * the draft system of categories is presented as a mindmap `Category.mm`
     * detailed minutes for [Saturday](minute_saturday.md) and [Sunday](minute_sunday.md) are also provided
 
+## Contribute
+
+If you would like to contribute to the metabrain project, get in touch (see
+below) and also take a look at our [Trello boards](trello_howto.md).
+
 ## Contact
 
-For feedback, questions or remarks please send a mail to 
+For feedback, questions or remarks please send a mail to
 [metabrainde@gmail.com](mailto:metabrainde@gmail.com) or contact us on
-[slack](https://de-refugees.slack.com/messages/metabrain_work).
+[slack](https://de-refugees.slack.com/messages/metabrain_work). You can get
+yourself invited to the slack team using [this link](https://de-refugees-slackin.herokuapp.com/).
