@@ -3,7 +3,7 @@
 ## Saturday 2016-01-09
 
 ### Participants:
-* WeConnect: Robert
+* Robert (Weconnect)
 * InfoCompass: Jan, Stefan
 * Refugeeboard/Social Collective: Britta, Conni
 * Metabrain: Moritz, Ulrike
