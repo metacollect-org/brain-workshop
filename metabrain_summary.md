@@ -1,14 +1,12 @@
 # Metabrain
 
-The metabrain project (working title) originated at the "Refugee Hackathon" in
-Oct 2015, Berlin, and is being developed in cooperation with partners from
-online networking and search sites. These partners are from
+The project Metabrain (working title) originated at the "Refugee Hackathon" in
+October 2015, Berlin. It is being developed in close cooperation with partners from existing online networking and search sites. These partners are from
 [info-compass.eu](http://info-compass.eu/),
-[refugeeboard.de](http://refugeeboard.de/),
-[socialprohub.org](http://socialprohub.org/) and
-[weconnect.berlin](http://weconnect.berlin/).
+[refugeeboard.de](http://refugeeboard.de/) and
+[socialprohub.org](http://socialprohub.org/).
 
-## Status/Challenge
+## Situation/Challenge
 
 Moved by the newcomers' plight, residents are not only volunteering in
 unprecedented numbers but are also founding numerous projects aimed at
@@ -26,22 +24,24 @@ current activities.
 
 ## Goal
 
-To foster cooperation between projects through the revelation of synergies and
-the possibility for networking. This is enabled by providing structured meta
-data on digital and analog projects as a free and open service.
+To foster cooperation between and sustainable growth of projects through the
+revelation of synergies and the possibility for networking. This is enabled by
+providing structured meta data on digital and analog projects as a free and open
+service.
 
 ## Solution
 
 Gathering and merging all relevant data sets in order to create a comprehensive
 and current catalog of projects. Core data collected includes but is not limited
 to name, goal, website, contact. This collection seeds a database that provides
-standardized meta data on projects, as well as mapping their needs. Users
+standardized meta data on projects, as well as mapping their professional and
+infrastructural needs. Users
 wishing an overview are served a simple search interface but are encouraged to
-make use of one of the more specialized platforms that can grant a targetted
+make use of one of the more specialized platforms that can grant a focused
 view on the same data set. Those platforms, such as the aforementioned partners,
 are given access to the data via an open interface (API). After the release of
 the database with the seed content, entry and update of information by the
-projects themselves in incentivized.
+projects themselves will be incentivized.
 
 ## Next Steps
 
